@@ -19,9 +19,9 @@ Do not be selfish use the code and share your improvements with the community
 
 ## Contribute with Community
 
-Do fork
-do your changes
-do merge request with an explanation to be easy to understand why and what you have changed
+Do fork<br>
+do your changes<br>
+do merge request with an explanation to be easy to understand why and what you have changed<br>
 Be happy !!!
 
 Please send me suggestions ... feedbacks are welcome
