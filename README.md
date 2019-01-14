@@ -38,7 +38,7 @@ Please send me suggestions ... feedbacks are welcome
 iqoption current version:
 https://github.com/n1nj4z33/iqoptionapi
 
-##How to start
+## How to start
 
 I'm using anaconda with python 2 to reduce time installing things
 
