@@ -89,7 +89,7 @@ class IqNeuralNetwork():
 
     def loadModel(self, filePath='IQOption_model.h5'):
         if os.path.isfile(filePath):
-            self.model = load_model(filePath)
+            self.model = load_model(filePath, compile=False)
             return True
         else:
             print 'File NOT Exist!'
