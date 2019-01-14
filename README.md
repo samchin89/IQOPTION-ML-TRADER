@@ -57,6 +57,12 @@ pip install --upgrade git+https://github.com/n1nj4z33/iqoptionapi.git@master
 
 rename userdata-sample.py to userdata.py
 
+to get the real account id and demo run code below and look to amount of each object
+
+```
+python getBalanceId.py
+```
+
 update user data in this file than run:
 
 ```
