@@ -8,7 +8,7 @@ import pandas as pd
 import userdata
 #from iqoption_api import IQOption as IQOptionAPI
 from iqoptionapi.api import IQOptionAPI
-import iqoption_api.constants as api_constants
+import iqoptionapi.constants as api_constants
 
 
 class IQOption():

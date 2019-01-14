@@ -26,7 +26,7 @@ class QtIQOption(QtWidgets.QWidget, QtCore.QObject):
         self.dataframeManager = pandasmanager.PandasManager()
 
         # Initialize UI
-        self.setWindowTitle('IqOptionNeural')
+        self.setWindowTitle('IqOption ML Trader')
         self.setWindowFlags(QtCore.Qt.WindowStaysOnTopHint)
         self.layout = QtWidgets.QGridLayout()
         self.log = QtWidgets.QTextEdit()
