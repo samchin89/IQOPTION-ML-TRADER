@@ -60,8 +60,8 @@ python main.py
 
 ## TODO
 
-- Update iqoption api to newest version:
-  https://github.com/Lu-Yi-Hsun/iqoptionapi
+- Update iqoption api to newest version:<br>
+  https://github.com/Lu-Yi-Hsun/iqoptionapi<br>
   pip install -U git+git://github.com/Lu-Yi-Hsun/iqoptionapi.git
 - add pylint
 - update python version to 3
