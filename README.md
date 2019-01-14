@@ -2,9 +2,14 @@
 
 this app is developed to use machine learning and trade in IOPTION
 
-this code is based on Lorenzo Argentieri's code from IQ OPTION BOT
-I found this code on internet and I'm trying to put it to works
-I don't even know how it works but I'm updating the code to put it to work
+NN to predict 1 minute Binary Options
+
+this code is based on Lorenzo Argentieri's code from IQ OPTION BOT<br>
+I found this code on internet and I'm trying to put it to works<br>
+
+- https://github.com/ModeMan12345/iq_option_BOT <br>
+
+I don't even know how it works but I'm updating the code to put it to work<br>
 and To learn machine learning.
 
 IT'S NOT WORKS PROPERLY YET, BECAUSE API IS OUTDATED
@@ -68,3 +73,20 @@ python main.py
 - add editorconfig
 - add unit test
 - after it start working convert it to webapp with flash and React.js or Vue.js
+
+### Other bots I found
+
+#### Python
+
+- https://github.com/arun-mansa/tradingbot
+- https://github.com/AlexCollin/IQOption-Bot-Trade-System
+- https://github.com/thinkguru/thinkgurumt2iq
+
+#### c
+
+- https://github.com/MongkonEiadon/Ai-Option
+
+#### node
+
+- https://github.com/quex46/iqoption
+- https://github.com/ongspxm/iqo2
