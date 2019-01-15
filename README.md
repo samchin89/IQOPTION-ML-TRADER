@@ -22,6 +22,16 @@ JUST HELP ME
 
 Do not be selfish use the code and share your improvements with the community
 
+## Summary
+- [Contribute with Community](#contribe)
+- [What I could do?](#whaticoulddo)
+- [PYTHON VERSION 2.7](#pythonversion)
+- [How to start](#howtostart)
+- [TODO](#todo)
+- [Other bots](#otherbots)
+
+<div id='contribe'/>
+
 ## Contribute with Community
 
 Do fork<br>
@@ -31,6 +41,8 @@ Be happy !!!
 
 Please send me suggestions ... feedbacks are welcome
 
+<div id='whaticoulddo'/>
+
 ## What I could do?
 
 - update libraries
@@ -38,10 +50,14 @@ Please send me suggestions ... feedbacks are welcome
 - How to install
 - Now it is open graphic interface
 
+<div id='pythonversion'/>
+
 ### PYTHON VERSION 2.7
 
 iqoption current version:
 https://github.com/n1nj4z33/iqoptionapi
+
+<div id='howtostart'/>
 
 ## How to start
 
@@ -69,6 +85,8 @@ update user data in this file than run:
 python main.py
 ```
 
+<div id='todo'/>
+
 ## TODO
 
 - Update iqoption api to newest version:<br>
@@ -80,15 +98,18 @@ python main.py
 - add unit test
 - after it start working convert it to webapp with flash and React.js or Vue.js
 
+<div id='otherbots'/>
+
 ### Other bots I found
 
 #### Python
 
 - https://github.com/arun-mansa/tradingbot
+- https://github.com/zoome0215/predictBO
 - https://github.com/AlexCollin/IQOption-Bot-Trade-System
 - https://github.com/thinkguru/thinkgurumt2iq
 
-#### c
+#### c #
 
 - https://github.com/MongkonEiadon/Ai-Option
 
